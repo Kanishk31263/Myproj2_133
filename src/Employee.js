@@ -9,7 +9,7 @@ export const Employee = ({ id, name, joinedOn, professsio }) => {
         joinedOn1: joinedOn,
         professsio1: professsio
     }
-
+        console.log("employee')
     return (
         <>
             {/* <h3 onClick={() => navigate('/idcard', { state: obj })}>{id} {name} {joinedOn} {professsio}</h3> */}
