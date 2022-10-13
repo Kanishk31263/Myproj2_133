@@ -7,9 +7,9 @@ export const Employee2 = () => {
     let location = useLocation();
     let navigate = useNavigate();
     console.log(location)
-    console.log('hello11')
-    console.log('hello12')
-    console.log('hello13')
+    console.log('hello111')
+    console.log('hello121')
+    console.log('hello131')
     return (
         <>
             <KeyboardBackspaceIcon onClick={() => navigate('/search')} />
