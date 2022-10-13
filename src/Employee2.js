@@ -10,6 +10,8 @@ export const Employee2 = () => {
     console.log('hello111')
     console.log('hello121')
     console.log('hello131')
+    
+    console.log("hello90")
     return (
         <>
             <KeyboardBackspaceIcon onClick={() => navigate('/search')} />
